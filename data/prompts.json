@@ -1,0 +1,28 @@
+{
+  "prompts": {
+    "batmanIronManHybrid": [
+      "A dark-armored hero with a bat-themed helmet and glowing red eyes, standing in a high-tech Batcave.",
+      "A sleek, black suit with metallic wings, combining Batman's stealth with Iron Man's tech, perched on a skyscraper.",
+      "A hybrid hero in a black and gold suit, with an arc reactor and bat-shaped chest plate, ready to launch into the night.",
+      "A half-cape, half-jetpack-wearing vigilante, blending Batman's iconic silhouette with Iron Man’s technological prowess.",
+      "A hybrid with a sleek black and red armor, bat ears integrated into Iron Man’s helmet, hovering above Gotham City.",
+      "A dark, armored figure with bat-inspired angular designs and Iron Man's repulsor technology, scanning the city from a rooftop.",
+      "A hybrid hero in a black armored suit with a glowing blue chest emblem, flying over Gotham with advanced jet propulsion.",
+      "A bat-themed suit with Iron Man’s energy weapons and cape, standing in a high-tech workshop surrounded by gadgets.",
+      "A dark, futuristic suit blending Batman’s stealthy appearance with Iron Man’s advanced technology, in a dramatic nighttime cityscape.",
+      "A hybrid with a bat-like silhouette and glowing tech accents, leaping from one rooftop to another in a neon-lit Gotham."
+    ],
+    "astronautCollection": [
+      "An astronaut floating in space with a view of Earth, wearing a sleek, modern spacesuit with neon accents.",
+      "An astronaut exploring the surface of a distant planet with a futuristic rover, under a colorful alien sky.",
+      "A group of astronauts working on a space station, with Earth visible through the large windows and advanced technology surrounding them.",
+      "An astronaut in a vintage space suit, stepping out of a retro-style spacecraft onto an uncharted moon.",
+      "An astronaut conducting a spacewalk near a giant space telescope, with distant galaxies and nebulae in the background.",
+      "An astronaut in a high-tech suit, landing on a mysterious icy planet with glowing terrain.",
+      "An astronaut taking a selfie with a breathtaking view of a supernova in the background.",
+      "An astronaut navigating through a space debris field, with a futuristic cityscape visible through a nearby space station window.",
+      "An astronaut performing repairs on a large satellite, with the cosmos stretching out in all directions.",
+      "An astronaut exploring the surface of Mars, with a futuristic colony visible in the distance and a red, dusty landscape."
+    ]
+  }
+}
